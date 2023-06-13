@@ -17,7 +17,7 @@ Bu Java programı, bir matrisin transpozunu bulmak için kullanılır. Program, 
 
 Bu README.md dosyası, Matris Transpozisini Bulma Programı'nın genel bir açıklamasını içerir. Programın nasıl kurulacağı ve kullanılacağı hakkında bilgi verir. Umarım bu bilgiler size yardımcı olur. İyi çalışmalar!
 
-## Matrix Transpose Finder Program
+# Matrix Transpose Finder Program
 
 This Java program is used to find the transpose of a matrix. The program creates a pre-defined 3x3 matrix, prints it to the console, then calculates the transpose of the matrix and prints it to the console.
 
